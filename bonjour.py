@@ -1,1 +1,1 @@
-print "Bonjour Monde!"
+print "今日"
